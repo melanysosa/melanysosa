@@ -1,5 +1,5 @@
 <h2> Hi!, I´m Melany sosa </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/82476871/158257571-00e4c4a3-7f16-466d-9bcd-10b712ab63b6.jpg" >
 <p><em>I'm Front en developer</em></p>
 
 <p><span style='color:red'>Contact me <span></p>
